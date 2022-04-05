@@ -1,4 +1,4 @@
-# Frontend Mentor - Advice generator app
+# Advice generator app
 
 ![Design preview](./assets/images/screenshot.png)
 
